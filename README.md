@@ -1,3 +1,3 @@
 # fluffy-spoon
 
-Hello World!
+Hello!
